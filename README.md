@@ -38,6 +38,6 @@ Let's put into practice everything learned in this lesson by working on a practi
 
     c. Conflicts happened? Solve them and prefer your code.
 
-    d. Commit and push your previuosly stashed changes
+    d. Commit and push your previously stashed changes
 
 7.  Create a PR in order to merge feature-a into main.
