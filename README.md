@@ -1,52 +1,43 @@
-## Git challenge
+# Git challenge
 
-Let's put into practice everything learned by working on a practical example.
+## Part 1
+
+Let's put into practice everything learned in this lesson by working on a practical example.
 
 1.  Fork this repository
 
-2.  Create a new branch "feature-a" 
+2.  Create a new branch "feature-a"
 
-    a.  Create a commit updating the user's personal data with your own data (name, country, studies, etc). Push this commit.
-    b.  Change the header left icons for text links. Don't commit.
+    a. Create a commit updating the user's personal data with your own data (name, country, studies, etc). Push this commit.
 
-3.  While you were working on the previous change, you are asked to immediately work on something else, so you need to leave your work in progress code for later. This code isn't ready to be committed yet, so you want to **stash** it.
+    b. Change the header left icons for text links. Don't commit.
 
-4.  Create another branch from main named "feature-b" 
+3.  While you were working on the previous change, you are asked to immediately work on something else, so you need to leave your work in progress for later. This code isn't ready to be committed yet, so you want to **stash** it.
 
-    a.  Create a commit updating the hero background image.
+4.  Create another branch from main named "feature-b"
 
-    b.  Create another commit updating the user name.
+    a. Create a commit updating the hero background image.
 
-    c.  Create another commit updating the text of the footer.
+    b. Create another commit updating the user name.
 
-    d.  Push all previous commits
+    c. Create another commit updating the text of the footer.
 
-5.  Merge "feature-b" into main. While you were working on your branch, other devs have merged their work into the main branch, so before merging your code, you should get the latest version.
+    d. Push all previous commits
 
-    a.  What commands would you use and why?
-    
-    b.  What merge method would you use and why? 
+5.  Merge "feature-b" into main. While you were working on your branch, other devs may have merged their work into the main branch, so before merging your code, you should try to get the latest version.
 
-6.  Now you want to go back to continue with the code from step 3. 
+    a. What commands would you use and why?
 
-    a.  Commit this change in branch feature-a
+    b. What merge method would you use and why?
 
-7. Merge main into "feature-a" 
+6.  Now you want to go back to continue with the code stashed in step 3.
 
-    a.  What merge method would you use and why? 
-    
-    b.  Conflicts happened? Solve them and prefer your code.
-    
-    c.  Commit this merge. 
-    
-    d.  Push branch feature-a
+    a. Before getting back to your previous work, update your branch
 
-8. Merge feature-a into main and then delete feature-a because we will not need it anymore.
+    b. What merge method would you use and why?
 
-    a.  What merge method would you use and why?
+    c. Conflicts happened? Solve them and prefer your code.
 
-9. At this point all changes have been merged into our main branch. 
+    d. Commit and push your previuosly stashed changes
 
-10. Now the client says that they want to go back on the header change. They prefer to leave the icons instead of the text (as it was before) so you need to undo that change.
-
-    a.  What command would you use and why?
+7.  Create a PR in order to merge feature-a into main.
