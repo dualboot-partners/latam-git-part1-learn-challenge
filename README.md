@@ -4,6 +4,8 @@
 
 Let's put into practice everything learned in this lesson by working on a practical example.
 
+**Please answer all the questions in the `README.md` of your project below each of them.**
+
 1.  Fork this repository
 
 2.  Create a new branch "feature-a"
@@ -30,14 +32,12 @@ Let's put into practice everything learned in this lesson by working on a practi
 
     b. What merge method would you use and why?
 
-6.  Now you want to go back to continue with the code stashed in step 3.
+6.  Now you want to go back to continue with the code stashed in step 3. Commit and push your previously stashed changes into `feature-a.`
 
-    a. Before getting back to your previous work, update your branch
+7. You have now finished with your code from feature-a.
 
-    b. What merge method would you use and why?
+    a. Create a PR in order to merge `feature-a` into main.
 
-    c. Conflicts happened? Solve them and prefer your code.
+    b. Conflicts happened? Solve them and prefer your code.
 
-    d. Commit and push your previously stashed changes
-
-7.  Create a PR in order to merge feature-a into main.
+    c. Commit the conflict resolution changes to `feature-a` and update the PR with this commit.
