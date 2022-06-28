@@ -6,7 +6,7 @@ Let's put into practice everything learned in this lesson by working on a practi
 
 **Please answer all the questions in the `README.md` of your project below each of them.**
 
-1.  Fork this repository
+1.  Clone this repository on your local machine and push it to a new repository on your github account. Once you are done, copy your repository URL into the box provided on the learning platform.
 
 2.  Create a new branch "feature-a"
 
