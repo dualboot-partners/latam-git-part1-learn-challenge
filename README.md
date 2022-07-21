@@ -6,9 +6,8 @@ Let's put into practice everything learned in this lesson by working on a practi
 
 Start by cloning this repository on your local machine and pushing it to a new repository on your github account. 
 
-Then follow the instructions given below and once you are done, copy your repository URL into the box provided on the learning platform.
+Follow the instructions given below and once you are done, create a PR from `feature-a` to `main` (as mentioned in step 6). In the comments of this PR add the answers to the questions asked below (for example: "4.a- your answer"). Then copy the URL of this PR into the box provided on the learning platform.
 
-**Please answer all the questions in your project's `README.md` below each one.**
 
 **All code changes must be made to the `index.html` file.**
 
@@ -37,11 +36,7 @@ Then follow the instructions given below and once you are done, copy your reposi
 
 4.  Merge "feature-b" into main. While you were working on your branch, other devs may have merged their work into the main branch, so before merging your code, you should try to get the latest version.
 
-    a. What commands would you use and why?
-
-    b. What merge method would you use and why?
-    
-    (Before doing the merge, answer these questions in the README.md.  Push the README.md to feature-b). 
+    a. What commands would you use and why? What merge method would you use and why?
 
 5.  Now you want to go back to continue with the code stashed in step 2. Commit and push your previously stashed changes into `feature-a.`
 
