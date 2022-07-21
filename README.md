@@ -40,6 +40,8 @@ Then follow the instructions given below and once you are done, copy your reposi
     a. What commands would you use and why?
 
     b. What merge method would you use and why?
+    
+    (Before doing the merge, answer these questions in the README.md.  Push the README.md to feature-b). 
 
 5.  Now you want to go back to continue with the code stashed in step 2. Commit and push your previously stashed changes into `feature-a.`
 
