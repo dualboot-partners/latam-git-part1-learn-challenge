@@ -17,7 +17,7 @@ Follow the instructions given below and once you are done, create a PR from `fea
 
     a. Create a commit updating the user's personal data with your own data (name, country, studies, etc). Push this commit.
 
-    b. Change the nav bar left icons for text links. Don't commit.
+    b. Change the nav bar icons for text links. Don't commit.
 
 2.  While you were working on the previous change, you are asked to immediately work on something else, so you need to leave your work in progress for later. This code isn't ready to be committed yet, so you want to **stash** it.
 
